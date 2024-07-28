@@ -1,0 +1,5 @@
+print("Guayaquil, Julio 2024")
+print("Mucha espectaviva en aprender en aprender este lenguaje de programación Python")
+print("Quiero brindar mis conocimientos adquiridos en el ambito profesional")
+print("Que siga adelante y que noo se rinda en lo que algun día él eligio")
+print("😁")
